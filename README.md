@@ -1,11 +1,4 @@
 # Experiment 8: Implement Menus and WebView in an Android Application
-
-## Student Information
-* **Name:** Aldrin Jose Antony
-* **USN:** 1SG21CS001
-* **Course:** Android Application Development
-* **Institution:** Department of Computer Science and Engineering
-
 ---
 
 ## 1. Experiment Overview

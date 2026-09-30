@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_home"
+        android:title="@string/menu_home"
+        android:icon="@android:drawable/ic_menu_compass"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_reload"
+        android:title="@string/menu_reload"
+        android:icon="@android:drawable/ic_popup_sync"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_zoom_in"
+        android:title="@string/menu_zoom_in"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_zoom_out"
+        android:title="@string/menu_zoom_out"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_about"
+        android:title="@string/menu_about"
+        android:icon="@android:drawable/ic_menu_info_details"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_exit"
+        android:title="@string/menu_exit"
+        android:icon="@android:drawable/ic_menu_close_clear_cancel"
+        app:showAsAction="never" />
+</menu>
